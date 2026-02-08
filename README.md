@@ -37,4 +37,4 @@ Aspiring Data Analyst
 
 ---
 
-⭐ This project is part of my professional data analytics portfolio.
+This project is part of my professional data analytics portfolio.
